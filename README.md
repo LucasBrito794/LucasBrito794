@@ -1,7 +1,6 @@
-## Olá! Me chamo Lucas Brito, sou programador Web Jr e técnico em Informática.
+## Olá! Me chamo Lucas Brito, sou Desenvolvedor Web Jr e técnico em Informática.
 - 🔭 Estou em busca de um emprego como Desenvolvedor Web Jr.
-- 🌱 Atualmente estudo os Frameworks Vue.js e Laravel.
-- 📫 Pretendo iniciar próximo semestre uma graduação em Análise e Desenvolvimento de Sistemas.
+- 📫 Cursando Análise e Desenvolvimento de Sistemas.
 <div align="center">
   <a href="https://github.com/LucasBrito794">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBrito794&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
