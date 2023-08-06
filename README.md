@@ -1,4 +1,4 @@
-## Olá! Me chamo Lucas Brito, sou Desenvolvedor Web Jr e técnico em Informática.
+## Olá! Me chamo Lucas Martins, sou Desenvolvedor Web Jr e técnico em Informática.
 - 🔭 Estou em busca de um emprego na área de Desenvolvimento web.
 - 📫 Cursando Análise e Desenvolvimento de Sistemas.
 <div align="center">
