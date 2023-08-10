@@ -1,6 +1,6 @@
 ## Olá! Me chamo Lucas Martins.
-- 🔭 Estou em busca de um emprego na área de Desenvolvimento web.
-- 📫 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Focado no desenvolvimento de aplicações para web.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
 <div align="center">
   <a href="https://github.com/LucasBrito794">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBrito794&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
