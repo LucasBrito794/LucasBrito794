@@ -1,5 +1,5 @@
 ## Olá! Me chamo Lucas Martins.
-- 💻  Focado no desenvolvimento de aplicações para web.
+- 💻  Focado na criação de aplicações para web.
 - 📚  Cursando atualmente Análise e Desenvolvimento de Sistemas.
 <div align="center">
   <a href="https://github.com/LucasBrito794">
