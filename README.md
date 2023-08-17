@@ -1,5 +1,5 @@
 ## Olá! Eu sou Lucas Martins, Desenvolvedor web.
-- 💻  Focado na criação de aplicações para web utilizando HTML, CSS, JavaScript e PHP. Mas também, estudo lógica em Python.
+- 💻  Focado na criação de aplicações para web utilizando HTML, CSS, JavaScript e PHP com integração ao Banco de Dados. Mas também, estudo lógica em Python.
 - 🚀  Aspirante a FullStack irei implementar tecnologias como React, TypeScript e Noje.js para melhor interação com o usuário.
 - 📚  Cursando atualmente Análise e Desenvolvimento de Sistemas.
 <div align="center">
