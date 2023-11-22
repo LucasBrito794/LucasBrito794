@@ -2,7 +2,7 @@
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 - 🚀 Habilidades: **Html**, **CSS**, **JavaScript**, **Versionamento de Código** e **Banco de Dados**
 - 📚 Atualmente estudando: **React** e **Node.Js**
-- 🎯  Irei estudar: **TypeScript**, **Next.Js**, **Tailwind**
+- 🎯  Irei estudar: **TypeScript**, **Next.Js**, **Tailwind CSS**
 - 📬 Fale comigo em: **lucasmartinsemp794@gmai.com**
 <div align="center">
   <a href="https://github.com/LucasBrito794">
