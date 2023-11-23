@@ -3,7 +3,7 @@
 - 🚀 Habilidades: **Html**, **CSS**, **JavaScript**, **Versionamento de Código** e **Banco de Dados**
 - 📚 Atualmente estudando: **React** e **Node.Js**
 - 🎯  Irei estudar: **TypeScript**, **Next.Js**, **Tailwind CSS**
-- 📬 Fale comigo em: **lucasmartinsemp794@gmai.com**
+- 📬 Fale comigo em: **lucasmartinsemp794@gmail.com**
 <div align="center">
   <a href="https://github.com/LucasBrito794">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBrito794&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
