@@ -1,5 +1,5 @@
 ## Olá! Eu sou Lucas Martins, Desenvolvedor Full Stack.
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática**
 - 🚀 Habilidades: **Html**, **CSS**, **JavaScript**, **Versionamento de Código** e **Banco de Dados**
 - 📚 Atualmente estudando: **React** e **Node.Js**
 - 🎯  Irei estudar: **TypeScript**, **Next.Js**, **Tailwind CSS**
