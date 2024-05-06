@@ -1,4 +1,5 @@
-## Olá! Eu sou Lucas Martins, Desenvolvedor Full Stack.
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=25&pause=1000&color=539BF5&vCenter=true&random=false&width=712&height=35&lines=Ol%C3%A1!+Eu+sou+Lucas+Martins%2C+Desenvolvedor+Full+Stack.)](https://git.io/typing-svg)
+
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática**
 - 🚀 Habilidades: **Html**, **CSS**, **JavaScript**, **Versionamento de Código** e **Banco de Dados**
 - 📚 Atualmente estudando: **React**, **Node.Js**, **Tailwind CSS** e **.NET C#**.
@@ -30,5 +31,5 @@
   <a href = "mailto:lucasmartinsemp794@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 </div>
-  
-  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&section=footer"/>
