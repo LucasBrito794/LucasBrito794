@@ -15,13 +15,9 @@
 </div>
 
 - <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/School.png" alt="Ícone de uma universidade" width="25" height="25" /> Graduando em **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática**;
-  
 - <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png" alt="Ícone de um foguete" width="25" height="25" /> Habilidades: **Html**, **CSS**, **JavaScript**, **Versionamento de Código** e **Banco de Dados**;
-
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Ícone de um programador programando" width="25" height="25" /> Atualmente estudando: **React**, **Node.Js**, **Tailwind CSS** e **.NET C#**;
-
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Ícone de um cérebro" width="25" height="25" /> Irei estudar: **TypeScript** e **Next.Js**;
-  
 - <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Ícone de duas mãos se apertando" width="25" height="25" /> Fale comigo em: **lucasmartinsemp794@gmail.com**.
 
 ### Minhas habilidades:
