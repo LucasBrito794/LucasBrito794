@@ -1,35 +1,37 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=25&pause=1000&color=539BF5&vCenter=true&random=false&width=712&height=35&lines=Ol%C3%A1!+Eu+sou+Lucas+Martins%2C+Desenvolvedor+Full+Stack.)](https://git.io/typing-svg)
+![Banner](https://github.com/LucasBrito794/LucasBrito794/assets/78000311/eb5661e7-6c58-4504-a30c-f11cf3befca9)
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática**
-- 🚀 Habilidades: **Html**, **CSS**, **JavaScript**, **Versionamento de Código** e **Banco de Dados**
-- 📚 Atualmente estudando: **React**, **Node.Js**, **Tailwind CSS** e **.NET C#**.
-- 🎯  Irei estudar: **TypeScript** e **Next.Js**
-- 📬 Fale comigo em: **lucasmartinsemp794@gmail.com**
-<div align="center">
+<div align="center">  
   <a href="https://github.com/LucasBrito794">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBrito794&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBrito794&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasBrito794&show_icons=true&count_private=true&title_color=539BF5&icon_color=539BF5&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBrito794&layout=compact&title_color=539BF5&text_color=fff&bg_color=fff0&border_color=fff0" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-  
-  ##
+![bar](https://github.com/LucasBrito794/LucasBrito794/assets/78000311/814a64e9-1f9f-492d-8e02-e7aeefd6b505)
 
- ### Você também me encontra em: 
-<div>
-  <a href="https://instagram.com/xs.lucass_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-martins-194322201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucasmartinsemp794@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div align = "center">
   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=30&lines=Seja+Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
 </div>
+
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/School.png" alt="Ícone de uma universidade" width="25" height="25" /> Graduando em **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática**;
+  
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png" alt="Ícone de um foguete" width="25" height="25" /> Habilidades: **Html**, **CSS**, **JavaScript**, **Versionamento de Código** e **Banco de Dados**;
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Ícone de um programador programando" width="25" height="25" /> Atualmente estudando: **React**, **Node.Js**, **Tailwind CSS** e **.NET C#**;
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Ícone de um cérebro" width="25" height="25" /> Irei estudar: **TypeScript** e **Next.Js**;
+  
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Ícone de duas mãos se apertando" width="25" height="25" /> Fale comigo em: **lucasmartinsemp794@gmail.com**.
+
+### Minhas habilidades:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,cs,react,nodejs,vite,vscode,git,github&theme=dark" />
+
+##
+
+### Você também me encontra em: 
+
+[![Instagram badge](https://img.shields.io/badge/instagram-539BF5?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/xs.lucass_) [![LinkedIn Badge](https://img.shields.io/badge/linkedin-539BF5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lucas-martins-194322201) [![Gmail badge](https://img.shields.io/badge/gmail-539BF5?logo=gmail&style=for-the-badge&logoColor=white)](mailto:lucasmartinsemp794@gmail.com) 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&section=footer"/>
