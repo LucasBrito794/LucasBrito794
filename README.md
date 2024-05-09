@@ -22,7 +22,7 @@
 
 ### Minhas habilidades:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,cs,react,nodejs,vite,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,cs,react,nodejs,vite,figma,vscode,git,github&theme=dark" />
 
 ##
 
